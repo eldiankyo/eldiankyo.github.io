@@ -1,2 +1,0 @@
-# myFirstWebsite
-házi feladat
